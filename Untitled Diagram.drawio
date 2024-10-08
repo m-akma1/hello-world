@@ -103,6 +103,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pZA8DG0Bop05R9up60jR-23" value="Open Loop Control System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="336" y="40" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZA8DG0Bop05R9up60jR-24" value="Closed Loop Control System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="336" y="210" width="156" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
